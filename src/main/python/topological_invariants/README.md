@@ -1,0 +1,1 @@
+Based on [Machine learning topological invariants with neural network](https://arxiv.org/pdf/1708.09401.pdf )
